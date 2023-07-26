@@ -1,0 +1,10 @@
+POST https://secretlittleboy-bookish-adventure-6x6rprwqrx5h4w76-3001.preview.app.github.dev/api/notes/
+Content-Type: application/json
+
+{
+    "content": "LYH is not easy",
+    "important": true
+}
+
+###
+get https://secretlittleboy-bookish-adventure-6x6rprwqrx5h4w76-3001.preview.app.github.dev/api/notes
